@@ -377,3 +377,7 @@ button:hover {
 .section-contact-us .right-pane {
   padding-left: 80px;
 }
+
+.section-myaccount {
+  padding-top: 10% !important;
+}
